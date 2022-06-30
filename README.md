@@ -1,5 +1,5 @@
 ### Hi there 👋
-##I'm 0xkiichiro, a civil engineering major that dipped his toes in business development and product engineering before starting a career in tech.
+#I'm 0xkiichiro, a civil engineering major that dipped his toes in business development and product engineering before starting a career in tech.
 
 Born in 95', citizen of the 🌎, pronouns: he/him.
 
