@@ -3,7 +3,7 @@ I'm 0xkiichiro, a structural engineer that dipped his toes in business developme
 
 Born in 95', citizen of the 🌎, pronouns: he/him.
 
-I'm a self-taught frontend developer. I've started my journey in April, 22'.
+I'm a self-taught frontend developer. I've started my journey in early 22'.
 
 I have working proficiency in GIT, HTML5, CSS3 and JS. Currently focused on learning React.
 
