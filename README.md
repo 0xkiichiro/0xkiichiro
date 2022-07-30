@@ -1,4 +1,5 @@
 ### 👋
+
 I'm 0xkiichiro, a structural engineer that dipped his toes in business development and product engineering before starting a career in tech.
 
 Born in 95', citizen of the 🌎, pronouns: he/him.
@@ -12,3 +13,5 @@ I enjoy following the latest trends in crypto and learning Solidity on the side 
 Feel free to contact me for potential collabs!
 
 email: 0xkiichiro@proton.me
+
+webpage: https://0xkiichiro.github.io/react-0xkiichiro-portfolio/#/
