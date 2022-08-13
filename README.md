@@ -6,7 +6,7 @@ Born in 95', citizen of the 🌎, pronouns: he/him.
 
 I'm a self-taught frontend developer. I've started my journey in early 22'.
 
-I have working proficiency in GIT, HTML5, CSS3 and JS. Currently focused on learning React.
+I have working proficiency in GIT, HTML5, CSS3 and JS & React. Currently focused on learning Python and backend development.
 
 I enjoy following the latest trends in crypto and learning Solidity on the side for my hobby projects.
 
