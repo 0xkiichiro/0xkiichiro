@@ -2,8 +2,8 @@
 
 I'm 0xkiichiro, I make magic with code.
 
-Feel free to contact me for potential collabs!
+Feel free to contact me for potential collabs.
 
-email: 0xkiichiro@proton.me
+email at -> 0xkiichiro@proton.me
 
 webpage: https://0xkiichiro.github.io/react-0xkiichiro-portfolio/#/
